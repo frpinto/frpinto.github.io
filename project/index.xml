@@ -18,7 +18,7 @@
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/biological-networks/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>As siblings might have a physical resemblance because they share a genetic background, diseases with similar symptoms are known to share affected genes. Cellular networks enable us to map genes that collaborate in certain functions and additionally, explore how are they are perturbed when some partner gene is missing. We aim to create tools that explore particular disease-related networks to identify which are the genes associated with the pathological origin of both diseases simultaneously.</description>
     </item>
     
     <item>
@@ -27,7 +27,8 @@
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/project/mathematical-modeling/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Biological systems are complex. This complexity arises from their large number of diverse components and dense network of functional interactions between these components. One consequence of this complexity is that it is hard to predict the behaviour of biological systems in response to environmental or genetic perturbations.
+In our group, we apply mathematical modeling to better understand biological systems in general and the multilayered regulation of gene expression in particular.</description>
     </item>
     
   </channel>
